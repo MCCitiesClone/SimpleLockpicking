@@ -52,5 +52,11 @@
 			<version>7.2.13</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.sk89q.craftbook</groupId>
+			<artifactId>craftbook</artifactId>
+			<version>3.10.13</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 </project>
