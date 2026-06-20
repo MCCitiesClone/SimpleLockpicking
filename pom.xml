@@ -16,7 +16,7 @@
 		</repository>
 		<repository>
 			<id>papermc</id>
-			<url>https://papermc.io/repo/repository/maven-public/</url>
+			<url>https://repo.papermc.io/repository/maven-public/</url>
 		</repository>
 		<repository>
 			<id>jitpack.io</id>
@@ -50,12 +50,6 @@
 			<groupId>com.sk89q.worldedit</groupId>
 			<artifactId>worldedit-bukkit</artifactId>
 			<version>7.2.13</version>
-			<scope>provided</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.comphenix.protocol</groupId>
-			<artifactId>ProtocolLib</artifactId>
-			<version>5.1.0</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
